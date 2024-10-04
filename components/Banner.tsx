@@ -1,5 +1,3 @@
-import Link from "next/link";
-import { Button } from "./ui/button";
 import Image from "next/image";
 import banner from "@/public/images/banner.png";
 import GetAccessButton from "./GetAccessButton";
