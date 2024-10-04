@@ -1,8 +1,8 @@
 import React from "react";
 import Image from "next/image";
-import feat1 from "@/Public/images/feat1.png";
-import feat2 from "@/Public/images/feat2.png";
-import feat3 from "@/Public/images/feat3.png";
+import feat1 from "../Public/images/feat1.png";
+import feat2 from "../Public/images/feat2.png";
+import feat3 from "../Public/images/feat3.png";
 const features = [
 	{
 		title: "Customizable notification templates",

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import banner from "@/public/images/banner.png";
+import banner from "../Public/images/banner.png";
 import GetAccessButton from "./GetAccessButton";
 const Banner = () => {
 	return (
