@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import { Button } from "./ui/button";
-
+import { MdOutgoingMail } from "react-icons/md";
 const EarlyAccess = () => {
 	const [email, setEmail] = useState("");
 
@@ -28,7 +28,7 @@ const EarlyAccess = () => {
 			<h2 className="text-3xl md:text-4xl font-bold text-center mb-8">
 				Get Early Access
 			</h2>
-			<p className="text-lg text-center mb-8">
+			<p className="text-lg text-center mb-8 font-sans">
 				Excited to enhance your YouTube channel? Drop your email below for early
 				access and exclusive updates!
 			</p>
@@ -45,10 +45,11 @@ const EarlyAccess = () => {
 					className="w-full px-4 py-2 rounded-md text-gray-800"
 				/>
 				<Button type="submit" className="bg-black">
+					<MdOutgoingMail className="mr-2" />
 					Submit
 				</Button>
 			</form>
-			<p className="text-center mt-8">
+			<p className="text-center mt-8 font-sans">
 				Stay tuned for a powerful new way to engage your audience!
 			</p>
 		</div>
