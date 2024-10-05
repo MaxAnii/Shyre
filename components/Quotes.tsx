@@ -6,7 +6,7 @@ const Quotes = () => {
 			<h2 className="text-3xl md:text-4xl font-bold text-center mb-12">//</h2>
 			<p className="text-lg text-gray-700 text-center mx-auto md:w-2/4 font-sans">
 				Using Eau has been a game-changer for our digital marketing strategy.
-				The insights we’ve gained have allowed us to refine our content and
+				The insights we've gained have allowed us to refine our content and
 				significantly boost our search engine rankings.
 			</p>
 			<div className="flex justify-center mt-3">
