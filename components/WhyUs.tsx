@@ -6,7 +6,7 @@ const WhyUs = () => {
 			<h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
 				Why Us?
 			</h2>
-			<p className="text-xl text-gray-700 text-center mx-auto md:w-2/4">
+			<p className="text-xl text-gray-700 text-center mx-auto md:w-2/4 font-sans">
 				WhatsApp is a game changer. In India, WhatsApp is the go-to platform for
 				communication, boasting higher conversion rates than traditional
 				methods. With its vast user base, you can connect directly with your
