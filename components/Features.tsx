@@ -22,7 +22,7 @@ const features = [
 const Features = () => {
 	return (
 		<div className="flex justify-center">
-			<div className=" bg-gray-100 p-10 md:p-16 md:w-[80vw]">
+			<div className=" bg-gray-100 p-10 md:p-16 ">
 				<h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
 					Features
 				</h2>
