@@ -39,7 +39,7 @@ const FAQ = () => {
 					<Accordion
 						type="single"
 						collapsible
-						className="bg-gray-200  md:w-[70%] w-[80%] hover:bg-black hover:text-white px-5 rounded-xl "
+						className="bg-gray-200  md:w-[70%] w-[80%]  px-5 rounded-xl "
 					>
 						<AccordionItem value="item-1">
 							<AccordionTrigger>{item.question}</AccordionTrigger>
