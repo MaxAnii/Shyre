@@ -30,7 +30,7 @@ const FAQ = () => {
 		},
 	];
 	return (
-		<div className=" p-10 md:p-16">
+		<div className=" p-10 md:p-16 my-14">
 			<h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
 				Your questions, answered.
 			</h2>
@@ -39,7 +39,7 @@ const FAQ = () => {
 					<Accordion
 						type="single"
 						collapsible
-						className="bg-gray-200  md:w-[50%] w-[80%] hover:bg-black hover:text-white px-5 rounded-xl "
+						className="bg-gray-200  md:w-[70%] w-[80%] hover:bg-black hover:text-white px-5 rounded-xl "
 					>
 						<AccordionItem value="item-1">
 							<AccordionTrigger>{item.question}</AccordionTrigger>

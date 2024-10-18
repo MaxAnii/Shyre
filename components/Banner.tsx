@@ -7,7 +7,7 @@ import GetAccessButton from "./GetAccessButton";
 const Banner = () => {
 	return (
 		<div className="background  flex justify-center ">
-			<div className=" border-2 rounded-2xl bg-white	border-dotted md:w-[60vw] pt-16 pb-10 mb-5 mt-10 shadow-xl">
+			<div className=" border-2 rounded-2xl bg-white	border-dotted md:w-[65vw] pt-16 pb-10 mb-5 mt-10 shadow-xl">
 				<h1 className="text-center text-4xl lg:text-5xl mb-6 mt-16 p-4 font-semibold leading-tight">
 					Drive More Traffic To Your YouTube Videos Via WhatsApp
 					<span className="inline-block bg-slate-200 text-5xl rounded-3xl p-3 ml-3 shadow-2xl align-middle">
@@ -48,7 +48,7 @@ const Banner = () => {
 					<div className="text-gray-400">500+ people wait for launch</div>
 				</div>
 
-				<div className=" rounded-2xl md:mr-5 mx-3 md:mx-0  flex justify-center mb-5 float-animation mt-11">
+				<div className=" rounded-2xl  md:mx-2  mx-10  flex justify-center  mb-5 float-animation mt-11">
 					<div className="shadow-2xl border-8 border-zinc-200 rounded-2xl">
 						<div className="border-[5px] border-black  rounded-lg p-2">
 							<Image

@@ -2,7 +2,7 @@ import React from "react";
 
 const WhyUs = () => {
 	return (
-		<div className="bg-white p-10 md:p-16">
+		<div className="bg-white p-10 md:p-16 my-24">
 			<h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
 				Why Us?
 			</h2>
